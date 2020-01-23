@@ -1,4 +1,4 @@
-# MyProject--> This a simple java progam for converting Kelvin to celsius, pounds to kilograms and miles to kilometers,
+# Conversion Service--> This a simple java progam for converting Kelvin to celsius, pounds to kilograms and miles to kilometers,
 
 Used java version 1.8 on eclipse ide
 
