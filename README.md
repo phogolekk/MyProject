@@ -2,4 +2,4 @@
 
 Used java version 1.8 on eclipse ide
 
-It contains only two classes, the converter class with 3 methods and a main class for excuting the program
+It contains only two classes, the converter class with 3 methods and a main class for executing the program
